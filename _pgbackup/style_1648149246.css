@@ -1,0 +1,6 @@
+.desablilitado {
+    pointer-events: none;
+    background-color: #eb3939;
+    opacity: 50%;
+    padding-top: 17px;
+}
